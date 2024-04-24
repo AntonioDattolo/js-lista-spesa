@@ -6,7 +6,8 @@ const list=[
     'MSI z390',
     'Cooler Master Liquid 360',
 ]
-const listCont = document.querySelector("ul")
+// const listCont = document.querySelector("ul")
+const listCont = document.getElementById("listael")
 
 console.log(list)
 for (let x = 0; x < list.length; x++) {
