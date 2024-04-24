@@ -28,3 +28,8 @@ BONUS 1
 Sostituito nel ciclo while la MILESTONE 3   , per poter usare un metodo diverso per stampare in pagina. 
 CICLO FOR TRAMITE : "innerHTML"
 CICLO WHILE TRAMITE : "createElement" "innerHTML" e "append".
+
+BONUS 2
+Aggiunta dei button per far partire il ciclo.
+CICLO FOR : ATTRAVERSO LA function "ONCLICK"
+CICLO WHILE : ATTRAVERSO L'ISTRUZIONE "addEventListener".
