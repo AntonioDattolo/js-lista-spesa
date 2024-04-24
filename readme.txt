@@ -23,3 +23,8 @@ Converto il ciclo for in un ciclo while, dichiarando la "x" fuori e prima dal ci
 ////MILESTONE 3
 Stampo i risultati dei cicli, sia in console che nel DOM. Creo una cosnt "listCont" che corrisponda alla <ul> dell'html, dopo di che creo una varibiabile "contenuto" che sia uguale a a tutti gli elementi dell'array "list". 
 Successivamente creo una variabile che sarà il mio <li> per la mia <ul> tramite createElement che avrà come innerHtml la variabile "contenuto". E infine tramite .append inserisco il mio <li> nella sua <ul>.
+
+BONUS 1
+Sostituito nel ciclo while la MILESTONE 3   , per poter usare un metodo diverso per stampare in pagina. 
+CICLO FOR TRAMITE : "innerHTML"
+CICLO WHILE TRAMITE : "createElement" "innerHTML" e "append".
